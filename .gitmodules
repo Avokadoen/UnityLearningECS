@@ -1,0 +1,6 @@
+[submodule "UnitySamples"]
+	path = UnitySamples
+	url = git@github.com:Unity-Technologies/EntityComponentSystemSamples.git
+[submodule "Assets/UnitySamples"]
+	path = Assets/UnitySamples
+	url = git@github.com:Unity-Technologies/EntityComponentSystemSamples.git
