@@ -5,6 +5,6 @@ using Unity.Entities;
 [System.Serializable]
 public struct MoveComponent : IComponentData
 {
-    // should be normalized vector
-    float3 direction;
+    public float2 Velocity;
+    public float LifeTime;
 }
